@@ -1,2 +1,5 @@
-# hangman-game
-A hangman game in Python. Day 7 project from 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
+# A hangman game
+
+### How to start the game?
+- Open the terminal of your preferred code editor
+- Run the main.py file
